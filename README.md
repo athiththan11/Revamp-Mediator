@@ -2,6 +2,8 @@
 
 A custom implementation to convert the attribute values of payloads using WSO2 Class Mediator extensions.
 
+[Medium Story](https://medium.com/@athiththan11/wso2-class-mediators-convert-payloads-946a4fc5aa4a)
+
 Simply put, the mediation logic will do the following conversion
 
 ```json
@@ -120,3 +122,4 @@ After a successful execution, You will find the results as follows
 ```json
 {"post":"WSO2 Class Mediator: Revamp","dev":{"name":"Athiththan"}}
 ```
+
